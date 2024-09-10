@@ -28,7 +28,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>HelloJava</mainClass>
+              <mainClass>sapinPlein</mainClass>
             </manifest>
           </archive>
         </configuration>
