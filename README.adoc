@@ -4,7 +4,7 @@
 
 Soyez bien sûr d'avoir cloné le projet avec la commande *git clone [url du projet]*.
 
-Connectez vous à l'aide de votre nom Github et d'un token que vous aurez créé sur github en lien avec le projet
+Connectez vous à l'aide de votre nom Githuh et Mdp
 
 //---------------------------------------------------------------
 
@@ -19,4 +19,6 @@ Dans notre cas, nous avons précisément utilisé la commande "mvn javadoc:javad
 
 Enfin, pour lancer le projet, nous avons utilisé les commandes :
 *mvn package*, suivi de
-*java -jar target/tp_qualite-1.0.jar* nous permettant d'exécuter le jar créé par la première commande
+*java -jar target/tp_qualite-1.0.jar* nous permettant d'exécuter le jar créé par la première commande.
+
+URL de mon partenaire sur GitLab : https://gitlab.com/RaphaLLamothe/tp1-qualite
